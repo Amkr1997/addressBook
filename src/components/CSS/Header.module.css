@@ -1,0 +1,15 @@
+.heading {
+  color: #fd7e14;
+  font-weight: 600;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: -1px;
+}
+
+.addressTag {
+  color: #fd7e14;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+  line-height: 20px;
+}

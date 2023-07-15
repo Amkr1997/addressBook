@@ -1,0 +1,22 @@
+.form {
+  background-color: #fff4e6;
+  padding: 18px;
+
+  filter: drop-shadow(0 8px 5px #f1f3f5);
+  border-radius: 10px;
+}
+
+.inp {
+  outline: none;
+  padding: 0 4px;
+  text-align: center;
+  border: 1.5px solid #fff9db;
+  border-radius: 8px;
+  width: 100%;
+
+  transition: all 0.5s;
+}
+
+.inp:focus {
+  border: 1.5px solid #fcc419;
+}
